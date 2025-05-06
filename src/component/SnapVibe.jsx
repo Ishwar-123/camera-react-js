@@ -364,6 +364,7 @@ const SnapVibe = () => {
               ) : (
                 <button onClick={handleStartCamera} className="start-button">
                   Launch Camera
+                  <h6>DoubleClick to Launch Camera</h6>
                 </button>
               )}
             </div>
